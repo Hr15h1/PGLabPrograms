@@ -1,2 +1,2 @@
 # PGLabPrograms
-## This repository containes all the programs that I have done in the computer lab for my PG.
+## This repository containes C programs done for the TOC lab cycle
